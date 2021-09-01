@@ -14,7 +14,7 @@ int main (void)
  DDRD |= RIGHT_LEDS;  // need bits 3-7 1111 1000 for 5 lights player 1 (right)
  DDRB |= LEFT_LEDS;  // need bigs 0-5 0001 1111 for 5 lights player 2 (left)
 
-//testing git
+//testing git + github
  while(1) {
 
   PORTB |= LEFT_LEDS;
