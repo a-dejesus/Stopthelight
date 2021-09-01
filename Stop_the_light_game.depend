@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630531721 source:c:\arduino\stop_the_light_game\fuse.c
+	<avr/io.h>
+
+1630531787 source:c:\arduino\stop_the_light_game\main.c
+	<avr/io.h>
+	<util/delay.h>
+
